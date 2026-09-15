@@ -13,7 +13,7 @@
  [🎬 letterboxd.mp4](https://letterboxd.com/andreyev/) | 2003-11-13 22:51 | 8K |
  [📚 libs/goodreads](https://www.goodreads.com/user/show/14892376-andreyev-dias-de-melo) | 2001-10-03 20:22 | 1K |
  [📰 libs/instapaper](https://www.instapaper.com/p/andreyevbr) | 2012-12-12 12:12 | 12k |
- [🔗 mail -> contact](mailto:andreyev@andreyev.net) | 2005-01-02 09:22 | - |
+ [🔗 mail -> contact](&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#97;&#110;&#100;&#114;&#101;&#121;&#101;&#118;&#64;&#97;&#110;&#100;&#114;&#101;&#121;&#101;&#118;&#46;&#110;&#101;&#116;) | 2005-01-02 09:22 | - |
 
 
 ---
